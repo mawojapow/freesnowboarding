@@ -21,7 +21,7 @@ summary: Datenschutzerklärung
 	let songPlayingIndex = 0
 	let song = null
 
-	import {clickOutside} from './clickOutside.ts';
+	
 	
 	function handleClickOutside(event) {
 		pause()
