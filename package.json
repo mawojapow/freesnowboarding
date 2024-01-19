@@ -23,7 +23,8 @@
     "check": "svelte-check --tsconfig ./tsconfig.json",
     "check:watch": "svelte-check --tsconfig ./tsconfig.json --watch",
     "lint": "prettier --check --plugin-search-dir=. . && eslint --ignore-path .gitignore .",
-    "format": "prettier --write --plugin-search-dir=. ."
+    "format": "prettier --write --plugin-search-dir=. .",
+    "deploy": "pnpm build && pnpx gh-pages -d build -t true"
   },
   "devDependencies": {
     "@iconify-json/heroicons-outline": "^1.1.7",
@@ -31,6 +32,7 @@
     "@sveltejs/adapter-auto": "^2.1.0",
     "@sveltejs/adapter-node": "^1.3.1",
     "@sveltejs/adapter-static": "^2.0.3",
+    "@sveltejs/adapter-netlify": "^4.0.0",
     "@sveltejs/kit": "^1.25.0",
     "@tailwindcss/typography": "^0.5.10",
     "@types/node": "^20.6.0",
@@ -48,6 +50,7 @@
     "eslint-plugin-svelte": "^2.33.1",
     "fenceparser": "^2.2.0",
     "fff-flavored-frontmatter": "1.0.0-alpha.1",
+    "gh-pages": "^6.1.1",
     "github-slugger": "^2.0.0",
     "mdast-util-to-string": "^3.2.0",
     "mdsvex": "^0.11.0",
