@@ -22,7 +22,6 @@
           {/if}
         {/each}
         <br />
-      <br />
       by
       <a
         rel="noopener noreferrer external"
@@ -32,6 +31,7 @@
         href="https://en.wikipedia.org/wiki/WTFPL">
         Marius
       </a>
+      <br />
       {/if}
       $ {footerConfig.since && footerConfig.since !== new Date().toJSON().substring(0, 4)
         ? `${footerConfig.since} - ${new Date().toJSON().substring(0, 4)}`
