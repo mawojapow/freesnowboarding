@@ -27,8 +27,6 @@ I bought a cap @<a href="https://dustbox.org/collections/all">dustbox</a> (be aw
 
 "dustbox, NEEDED YOU"
 
-HAPPY DB
-
 ## dustbox, NEEDED YOU
 
 <YouTube youTubeId="lKkMp2PAjZ0" />
