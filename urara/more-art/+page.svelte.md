@@ -1,9 +1,11 @@
 ---
-title: 'free snow'
+title: 'nothin4free $ free snow'
 image: '/src/static/assets/4980513.jpg'
 alt: 'MjW'
 updated: 2024-1-27
 ---
+
+nothin is 4 free. snow
 
 love. is real
 
