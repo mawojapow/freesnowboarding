@@ -5,8 +5,6 @@ alt: 'MjW'
 updated: 2024-1-27
 ---
 
-riderz
-
 love. is real
 
 how it was. priceless
