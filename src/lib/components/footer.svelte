@@ -35,7 +35,7 @@
         class="tooltip tooltip-secondary hover:text-secondary"
         data-tip="🌸 [δ] - Based on MDsveX & SvelteKit 🌸 Urara-Project by kwaa 藍+85CD on GH"
         href="https://en.wikipedia.org/wiki/WTFPL">
-        Marius Wolfer
+        Marius
       </a>
       {#if footerConfig.html}
         <br />
