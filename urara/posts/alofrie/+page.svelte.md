@@ -8,7 +8,7 @@ created: '2024-1-2'
 tags: ['Arthur Longo & Friends', 'VANS']
 ---
 
-<sup>I love my Wu-Tang¬ Jacket</sup>
+<sup>Wu-Tang¬ Jacket on the Swarm</sup>
 <br/>
 
 <script>
