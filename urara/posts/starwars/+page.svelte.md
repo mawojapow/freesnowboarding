@@ -2,8 +2,7 @@
 title: 'Guud 2 have Star Wars back'
 image: '/posts/starwars/sw.png'
 alt: 'MjW'
-created: 2024-1-1
-# updated: 2021-1-1
+created: 2024-2-2
 tags:
   - 'Star Wars'
   - 'Snapchat'
