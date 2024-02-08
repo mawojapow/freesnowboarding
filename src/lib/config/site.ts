@@ -4,7 +4,7 @@ export const site: SiteConfig = {
   protocol: import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV ? 'http://' : 'https://',
   domain: import.meta.env.URARA_SITE_DOMAIN ?? 'freesnowboarding.xyz',
   title: 'freesnowboarding.xyz',
-  subtitle: 'Ride free, stick together.',
+  subtitle: '🐝 happy',
   lang: 'en-US',
   description: 'Powered by SvelteKit/Urara',
   author: {
