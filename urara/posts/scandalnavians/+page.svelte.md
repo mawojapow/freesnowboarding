@@ -7,7 +7,7 @@ created: '2024-1-2'
 tags: ['Scandalnavians']
 ---
 
-<center><a href=https://snowboardmag.com/videos/scandalnavians-part-1>do you remember how we started out</a> </center>
+<center><a href=https://snowboardmag.com/videos/scandalnavians-part-1>part 1</a> </center>
 <br/>
 
 <script>
