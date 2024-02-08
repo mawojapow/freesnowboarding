@@ -1,8 +1,19 @@
 ---
-title: 'More'
+title: 'free snow'
 image: '/posts/assets/4980513.jpg'
 alt: 'MjW'
 updated: 2024-1-27
 ---
 
-You want more? (8
+Dear Rider
+
+love is. real
+
+how it was. priceless
+
+how it is. yours
+
+bring the f*cking 70s back!
+
+<img src="/posts/assets/9034546.jpg" alt="MjW" title="PeaceLoveHarmony" />
+<a href="http://www.freepik.com">Designed by Freepik</a>
