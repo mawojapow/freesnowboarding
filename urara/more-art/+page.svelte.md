@@ -1,5 +1,5 @@
 ---
-title: 'nothin4free $ free snow'
+title: 'nothin4free$freesnow'
 image: '/more-art/4980513.jpg'
 alt: 'MjW'
 updated: 2024-2-2
