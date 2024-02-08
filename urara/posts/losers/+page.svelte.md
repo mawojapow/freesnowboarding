@@ -21,5 +21,5 @@ Thank You Lobster Imperium for stayin True to yourself
 
 <Vimeo vimeoId="886806712" /><sub><sup>This movie is 100/100</sup></sub>
 
-<YouTube youTubeId="v=mzvCa-cjKeE" />
+<YouTube youTubeId="mzvCa-cjKeE" />
 
