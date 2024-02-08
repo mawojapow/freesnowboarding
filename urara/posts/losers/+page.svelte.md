@@ -8,18 +8,17 @@ created: '2024-01-15'
 tags: ['Lobstersnowboards', 'a3rd?']
 ---
 
-Since day 1 (in snowboard films) when Max showed us Halldors Part in "They Came From" (shoutous <a href="https://cherrydeck.com/its.petter">Petter Foshaug</a> ) this Snowboard Crew knows how to make good movies.
+Since day 1 (in snowboard films) when Max showed us Halldors Part in "They Came From" (shoutous <a href="https://cherrydeck.com/its.petter">Petter Foshaug</a> ) this Snowboard Crew knows how to make movies I like.
 
 <a href="https://www.instagram.com/kuske/">Kristofer Fahlgren</a>👑
 
-My second time @ DIYX & the Second Loser Movie <br/>
-Hell it is!
-
-Thank You Lobster Imperium for stayin True to yourself. ❤️
+Thank You Lobster Imperium for stayin True to yourself.
 
 <script>
+  import { YouTube } from 'sveltekit-embed'
   import { Vimeo } from 'sveltekit-embed'
 </script>
 
 <Vimeo vimeoId="886806712" />
+<YouTube youTubeId="_QdK-S4bTRo" />
 <sub><sup>This movie is 100/100</sup></sub>
