@@ -6,7 +6,7 @@ alt: 'MjW'
 summary: Datenschutzerklärung
 ---
 
-<p><a href="https://twitter.com/ComplexPop/status/1496494142641344518/photo/2">Twitter by Complex Pop Culture</a> inspired by <a href="https://www.instagram.com/tafernair/">Alex Taferner</a></p>
+<p><a href="https://twitter.com/ComplexPop/status/1496494142641344518/photo/2">Twitter by Complex Pop Culture</a>
 
 <script>
 	const playlist = [
