@@ -5,7 +5,7 @@ alt: 'MjW'
 updated: 2024-1-27
 ---
 
-dear rider
+ride
 
 love. is real
 
