@@ -22,11 +22,6 @@
           {/if}
         {/each}
         <br />
-      {/if}
-      $ {footerConfig.since && footerConfig.since !== new Date().toJSON().substring(0, 4)
-        ? `${footerConfig.since} - ${new Date().toJSON().substring(0, 4)}`
-        : new Date().toJSON().substring(0, 4)}
-      {site.author.name} $
       <br />
       by
       <a
@@ -37,6 +32,12 @@
         href="https://en.wikipedia.org/wiki/WTFPL">
         Marius
       </a>
+      {/if}
+      $ {footerConfig.since && footerConfig.since !== new Date().toJSON().substring(0, 4)
+        ? `${footerConfig.since} - ${new Date().toJSON().substring(0, 4)}`
+        : new Date().toJSON().substring(0, 4)}
+      {site.author.name} $
+
       {#if footerConfig.html}
         <br />
         {@html footerConfig.html}
