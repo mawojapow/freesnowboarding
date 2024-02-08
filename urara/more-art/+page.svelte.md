@@ -14,6 +14,6 @@ how it was. priceless
 how it is. yours
 
 bring the f*cking 70s back!
-
+<img src="/src/static/assets/4943252.jpg" alt="MjW" title="PeaceLoveHarmony" />
 <img src="/src/static/assets/9034546.jpg" alt="MjW" title="PeaceLoveHarmony" />
 <a href="http://www.freepik.com">Images by Freepik</a>
