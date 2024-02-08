@@ -1,0 +1,16 @@
+---
+title: 'Guud to have Star Wars back'
+image: '/posts/starwars/sw.png'
+alt: 'MjW'
+created: 2024-1-27
+# updated: 2021-1-27
+tags:
+  - 'Star Wars'
+---
+
+## Beyond Medals - Bronze Age
+
+<script>
+  import { YouTube } from 'sveltekit-embed'
+</script>
+
