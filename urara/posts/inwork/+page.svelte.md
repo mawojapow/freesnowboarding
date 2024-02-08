@@ -1,9 +1,7 @@
 ---
-title: back up 'a lil'
-image: '/posts/inwork/bu.png'
+image: '/posts/inwork/inwork.png'
 alt: 'MjW'
 toc: false
-summary: Mia
 created: '2024-2-7'
 tags: ['in Arbeit...']
 ---
