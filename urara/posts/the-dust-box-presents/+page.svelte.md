@@ -24,7 +24,8 @@ tags:
 I bought a cap @<a href="https://dustbox.org/collections/all">dustbox</a> (be aware to get it over the border I failed 1st try).
 
 <a href="https://www.instagram.com/4kaishu/">4Kaishu</a> destroyed the halfpipe with <a href="https://www.instagram.com/valentinoguseli/">Valentino</a> <a href="https://www.facebook.com/reel/1138232670172207">@ Laax Open 2023</a> 🚀<br/>
-It's True, "dustbox, NEEDED YOU" and you.
+
+"dustbox, NEEDED YOU"
 
 HAPPY DB
 
