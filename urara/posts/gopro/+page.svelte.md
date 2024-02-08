@@ -14,9 +14,9 @@ Innsbrooklyn
 The Patscherkofel STAIR !
 
 When I lived @Kofel and heard he did that.
-Man, it blew my mind 2 J-Line Rides.
+Man, it blew my mind for more than 2 J-Line Rides.
 
-Shoutouts to Kofel Homies (& IBK Gs)
+Shoutouts Kofel Homies (& IBK Gs)
 
 Lorenz, your crazy and I love it.
 
