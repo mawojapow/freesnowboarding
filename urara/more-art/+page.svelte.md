@@ -5,9 +5,9 @@ alt: 'MjW'
 updated: 2024-1-27
 ---
 
-Dear Rider
+dear rider
 
-love is. real
+love. is real
 
 how it was. priceless
 
