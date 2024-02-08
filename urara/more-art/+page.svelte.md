@@ -11,7 +11,7 @@ love. is real
 
 how it was. priceless
 
-how it is. yours
+how it is. ours
 
 bring the f*cking 70s back!
 <img src="/more-art/4943252.jpg" alt="MjW" title="PeaceLoveHarmony" />
