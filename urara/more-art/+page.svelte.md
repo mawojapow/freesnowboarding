@@ -1,6 +1,6 @@
 ---
 title: 'More'
-# image: '/posts/the-dust-box-presents/TheDustBoxPresents.png'
+image: '/posts/assets/4980513.jpg'
 alt: 'MjW'
 updated: 2024-1-27
 ---
