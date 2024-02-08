@@ -8,14 +8,10 @@ created: '2022-12-24'
 tags: ['Elias Elhardt', 'Arthur Longo', 'GiGi Rüf']
 ---
 
-We ®️ gettin deep.
-
-When what you love makes pretty dayumm alone.
+We ®️ gettin dayumm deep.
 
 <script>
   import { Vimeo } from 'sveltekit-embed'
 </script>
 
 <Vimeo vimeoId="320329893" />
-
-<sup>masterpiece</sup>
