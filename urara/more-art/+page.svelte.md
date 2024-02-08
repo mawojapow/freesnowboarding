@@ -5,7 +5,7 @@ alt: 'MjW'
 updated: 2024-1-27
 ---
 
-nothin is 4 free. snow
+nothin is free. snow
 
 love. is real
 
