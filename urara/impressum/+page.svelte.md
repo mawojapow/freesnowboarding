@@ -153,4 +153,4 @@ summary: Datenschutzerklärung
 <h3>Speicherdauer</h3>
 <p>Die konkrete Speicherdauer der verarbeiteten Daten ist nicht durch uns beeinflussbar, sondern wird von Cloudflare, Inc. bestimmt. Weitere Hinweise finden Sie in der Datenschutzerklärung für Cloudflare CDN: <a href="https://www.cloudflare.com/privacypolicy/">https://www.cloudflare.com/privacypolicy/</a>.</p>
 
-<p>Diff. Lang. -> <a href="https://www.deepl.com">Translator</a></p>
+<p><a href="https://www.deepl.com">Different Language</a></p>
