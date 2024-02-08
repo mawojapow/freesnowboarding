@@ -2,10 +2,11 @@
 title: 'Guud 2 have Star Wars back'
 image: '/posts/starwars/sw.png'
 alt: 'MjW'
-created: 2024-1-27
-# updated: 2021-1-27
+created: 2024-1-1
+# updated: 2021-1-1
 tags:
   - 'Star Wars'
+  - 'Snapchat'
 ---
 <script>
   import { Vimeo } from 'sveltekit-embed'
