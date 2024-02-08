@@ -2,7 +2,7 @@
 title: 'nothin4free $ free snow'
 image: '/more-art/4980513.jpg'
 alt: 'MjW'
-updated: 2024-1-27
+updated: 2024-2-2
 ---
 
 nothin is free. snow
