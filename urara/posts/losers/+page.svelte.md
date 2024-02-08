@@ -12,13 +12,14 @@ Since day 1 (in snowboard films) when Max showed us Halldors Part in "They Came 
 
 <a href="https://www.instagram.com/kuske/">Kristofer Fahlgren</a>👑
 
-Thank You Lobster Imperium for stayin True to yourself.
+Thank You Lobster Imperium for stayin True to yourself
 
 <script>
   import { YouTube } from 'sveltekit-embed'
   import { Vimeo } from 'sveltekit-embed'
 </script>
 
-<Vimeo vimeoId="886806712" />
+<Vimeo vimeoId="886806712" /><sub><sup>This movie is 100/100</sup></sub>
+
 <YouTube youTubeId="v=mzvCa-cjKeE" />
-<sub><sup>This movie is 100/100</sup></sub>
+
