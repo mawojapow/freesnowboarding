@@ -20,4 +20,4 @@ ty
 
 <img src="/more-art/4943252.jpg" alt="MjW" title="PeaceLoveHarmony" />
 <img src="/more-art/9034546.jpg" alt="MjW" title="PeaceLoveHarmony" />
-<a href="http://www.freepik.com">Images by Freepik</a>
+<a href="http://www.freepik.com">Images by Freepik</a> 🐷
