@@ -16,7 +16,7 @@ we. guud
 
 bring the f*cking 70s back!
 
-ty
+T Y
 
 <img src="/more-art/4943252.jpg" alt="MjW" title="PeaceLoveHarmony" />
 <img src="/more-art/9034546.jpg" alt="MjW" title="PeaceLoveHarmony" />
