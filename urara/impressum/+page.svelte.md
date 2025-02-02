@@ -143,7 +143,7 @@ summary: Datenschutzerklärung
 <h3>Speicherdauer</h3>
 <p>Die konkrete Speicherdauer der verarbeiteten Daten ist nicht durch uns beeinflussbar, sondern wird von Vimeo, LLC bestimmt. Weitere Hinweise finden Sie in der Datenschutzerklärung für Vimeo Video: <a href="https://vimeo.com/privacy">https://vimeo.com/privacy</a>.</p>
 
-href="https://www.cloudflare.com/privacypolicy/">https://www.cloudflare.com/privacypolicy/</a>.</p>
+<a href="https://www.cloudflare.com/privacypolicy/">https://www.cloudflare.com/privacypolicy/</a>.</p>
 
 <img src="birgitDREAM.png" alt="RH_AI">
 <p>I’ve created this page to share a view of Snowboarding, perceiving it as pure art form and fun. Snowboarders are artists pushing the boundaries of reality. I want to honor every piece featured on this web page including every collaboration in history/future & the now, from every snowboard fan front- 2 background 2 the last line of code I copied 2 create this web string.</p>
