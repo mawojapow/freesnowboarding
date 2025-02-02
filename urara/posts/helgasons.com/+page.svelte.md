@@ -7,14 +7,14 @@ summary: G's
 created: 2021-12-25
 tags:
   - 'The Helgasons'
-  - 'Lobstersnowboards'
+  - 'GoodByeLobstersnowboards'
   - 'HappyGdayVincFuchs'
 ---
 
-The biggest blog inspirations I could ever get.
+The biggest blog inspirations I could imagine...
 
 https://www.helgasons.com/
 
 <br/>
 
-<a href="https://lobstersnowboards.com/">Lobstersnowboards</a>
+<a href="https://lobstersnowboards.com/">love</a>
