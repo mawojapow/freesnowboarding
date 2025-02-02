@@ -21,4 +21,3 @@ Thanks Lobster Imperium stayin True to yourself.
 
 <YouTube youTubeId="eHGT1izv8V0" />
 <Vimeo vimeoId="886806712" /><sub><sup>great</sup></sub>
-<Vimeo vimeoId="892342496" />
