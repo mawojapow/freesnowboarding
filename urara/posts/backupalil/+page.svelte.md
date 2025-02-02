@@ -1,5 +1,5 @@
 ---
-title: back up 'a lil'
+title: back up a lil <33
 image: '/posts/backupalil/bu.png'
 alt: 'MjW'
 toc: false
