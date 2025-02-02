@@ -3,7 +3,7 @@ title: nothing left
 image: '/posts/hennes/hennes.png'
 alt: 'MjW'
 toc: false
-summary: Comin Home
+summary: New Home
 created: '2023-12-24'
 tags: ['Hennes Dollenberg', 'G-Mon']
 ---
