@@ -17,4 +17,4 @@ https://www.helgasons.com/
 
 <br/>
 
-<a href="https://lobstersnowboards.com/">love</a>
+<a href="https://lobstersnowboards.com/">l</a>
