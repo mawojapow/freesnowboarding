@@ -153,7 +153,7 @@ summary: Datenschutzerklärung
 <h3>Speicherdauer</h3>
 <p>Die konkrete Speicherdauer der verarbeiteten Daten ist nicht durch uns beeinflussbar, sondern wird von Cloudflare, Inc. bestimmt. Weitere Hinweise finden Sie in der Datenschutzerklärung für Cloudflare CDN: <a href="https://www.cloudflare.com/privacypolicy/">https://www.cloudflare.com/privacypolicy/</a>.</p>
 
-<img src="pic_trulli.jpg" alt="RH_AI">
+<img src="birgitDREAM.png" alt="RH_AI">
 <p>I’ve created this page to share a view of Snowboarding, perceiving snowboarding as a pure art form and fun.
 Snowboarders are artists pushing the boundaries of reality.
 I want to honor every piece of art featured on this web page including every artist collaboration in history/future & the now, from every snowboard fan front- 2 background 2 the last line of code I copied 2 create this web string.
