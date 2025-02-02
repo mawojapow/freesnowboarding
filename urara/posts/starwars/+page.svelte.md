@@ -1,5 +1,5 @@
 ---
-title: 'Guud 2 have Star Wars back'
+title: 'Guud 2 have Star Wars'
 image: '/posts/starwars/sw.png'
 alt: 'MjW'
 created: 2024-2-2
