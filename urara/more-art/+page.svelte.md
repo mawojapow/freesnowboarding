@@ -10,9 +10,9 @@ free. snow
 
 love. is real
 
-how it was. priceless
+how it is. priceless
 
-how it is. guud
+we. guud
 
 bring the f*cking 70s back!
 
