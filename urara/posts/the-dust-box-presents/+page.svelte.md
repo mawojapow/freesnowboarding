@@ -8,7 +8,7 @@ created: 2021-12-24
 tags:
   - 'The Dust Box'
   - 'K2'
-  - 'KidsGetSexualizedOnSocialsButWhenUTurn18URAllowedToWatchGuudSnowboardvideos'
+  - 'SexualizedOnSocialsButWhenUTurn18URAllowedToWatchGuudSnowboardvideos'
 ---
 
 ## The Dust Box Presents
