@@ -5,7 +5,7 @@ alt: 'MjW'
 created: 2024-2-2
 tags:
   - 'Star Wars'
-  - 'Snapchat'
+  - 'Artisterix'
 ---
 <script>
   import { Vimeo } from 'sveltekit-embed'
