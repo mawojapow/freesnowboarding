@@ -70,7 +70,7 @@ export const footer: FooterConfig = {
   nav: [
     {
       text: 'FSB',
-      link: '/'
+      link: 'https://github.com/mawojapow/freesnowboarding'
     },
     {
       text: 'OP',
