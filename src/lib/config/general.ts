@@ -69,7 +69,11 @@ export const header: HeaderConfig = {
 export const footer: FooterConfig = {
   nav: [
     {
-      text: 'FC G',
+      text: 'FSB',
+      link: '/'
+    },
+    {
+      text: 'FCG',
       link: 'https://fc-geisslingen.de/'
     },
     {
@@ -79,10 +83,6 @@ export const footer: FooterConfig = {
     {
       text: 'Impressum',
       link: '/impressum'
-    },
-    {
-      text: 'FSB',
-      link: '/'
     }
   ]
 }
