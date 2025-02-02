@@ -1,3 +1,4 @@
+so much svelte...
 <img src="birgitDREAM.png" alt="RH_AI">
 <p>I’ve created this page to share a view of Snowboarding, perceiving it purely as art form and fun.</p>
 <br>
