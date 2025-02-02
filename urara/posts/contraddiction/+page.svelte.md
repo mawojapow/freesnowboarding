@@ -3,7 +3,7 @@ title: Contraddiction
 image: '/posts/contraddiction/contraddiction_.png'
 alt: 'MjW'
 toc: false
-summary: Professionals
+summary: Profession
 created: '2022-12-24'
 tags: ['Elias Elhardt', 'Arthur Longo', 'GiGi Rüf']
 ---
