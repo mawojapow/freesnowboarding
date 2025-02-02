@@ -3,7 +3,7 @@ title: We are Losers 2
 image: '/posts/losers/losers.png'
 alt: 'MjW'
 toc: false
-summary: Deep
+summary: blog snowboarding
 created: '2024-01-15'
 tags: ['Lobstersnowboards', 'a3rd?']
 ---
@@ -19,7 +19,6 @@ Thank You Lobster Imperium for stayin True to yourself
   import { Vimeo } from 'sveltekit-embed'
 </script>
 
-<Vimeo vimeoId="886806712" /><sub><sup>This movie is 100/100</sup></sub>
-
-<YouTube youTubeId="mzvCa-cjKeE" />
+<YouTube youTubeId="eHGT1izv8V0" />
+<Vimeo vimeoId="886806712" /><sub><sup>great movie</sup></sub>
 
