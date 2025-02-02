@@ -11,12 +11,12 @@ tags:
 
 Innsbrooklyn
 
-The Patscherkofel STAIR !
+ Patscherkofel STAIR !
 
 When I lived @Kofel and heard he did that.
-Man, it blew my mind the J-Line Rides.
+Man, it blew my mind few J-Line Rides!
 
-Shoutouts Kofel Homies (& IBK Gs)
+Shoutouts Kofel Homies IBK Gs 🙏
 
 Lorenz, your crazy and I love it.
 
