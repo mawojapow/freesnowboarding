@@ -8,10 +8,7 @@ created: '2022-12-24'
 tags: ['Elias Elhardt', 'Arthur Longo', 'GiGi Rüf']
 ---
 
-We ®️ 
-gettin 
-dayumm 
-deep
+®️ dayumm deep
 
 <script>
   import { Vimeo } from 'sveltekit-embed'
