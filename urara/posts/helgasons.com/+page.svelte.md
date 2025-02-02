@@ -3,7 +3,7 @@ title: 'helgasons.com'
 image: '/posts/helgasons.com/helgasons-blog.png'
 alt: 'MjW'
 toc: false
-summary: G's
+summary: imaginary
 created: 2021-12-25
 tags:
   - 'The Helgasons'
