@@ -3,14 +3,14 @@ title: Why so serious?
 image: '/posts/whysoserious/why-so.png'
 alt: 'MjW'
 toc: false
-summary: real.
+summary: fun
 created: '2024-1-7'
 tags: ["Ol'Dirty Kirschy", 'Dinar Colada', 'U.F.O. Snowboarding']
 ---
 
-Riding w/ these Legends have just been amazing @Kette 'nd especially end of last seazon @Kauni. They bring positive energy and can make a party out of everything.
+Riding w/ Legends have just been amazing @Kette 'nd especially end of last seazon @Kauni. They bring positive energy and can make a party out of everything.
 
-Greetz & Love Kauni Gangy !
+Greetz & Love Kauni Gangy 
 
 <script>
   import { YouTube } from 'sveltekit-embed'
