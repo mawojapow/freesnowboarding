@@ -8,11 +8,11 @@ created: '2024-01-15'
 tags: ['GoodByeLobstersnowboards', 'a3rd']
 ---
 
-Since day 1 (in snowboard films) when Max showed us Halldors Part in "They Came From" (shoutous <a href="https://cherrydeck.com/its.petter">Petter Foshaug</a> 👑) this Snowboard Tribe knows how to make movies.
+Since day 1 (in snowboard films) when Max showed us Halldors Part "They Came From" (shoutous <a href="https://cherrydeck.com/its.petter">Petter Foshaug</a> 👑) this Snowboard Tribe knows how to make movies.
 
 <a href="https://www.instagram.com/kuske/">Kristofer Fahlgren</a>👑
 
-Thank You Lobster Imperium stayin True to yourself
+Thanks Lobster Imperium stayin True to yourself.
 
 <script>
   import { YouTube } from 'sveltekit-embed'
