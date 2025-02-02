@@ -73,12 +73,12 @@ export const footer: FooterConfig = {
       link: '/'
     },
     {
-      text: 'FCG',
-      link: 'https://fc-geisslingen.de/'
-    },
-    {
       text: 'OP',
       link: 'https://onepiece-tube.com/'
+    },
+    {
+      text: 'FCG',
+      link: 'https://fc-geisslingen.de/'
     },
     {
       text: 'Impressum',
