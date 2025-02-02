@@ -1,5 +1,5 @@
 <img src="birgitDREAM.png" alt="RH_AI">
-<p>I’ve created this page to share a view of Snowboarding, perceiving it purely as art form and fun. Snowboarders are artists pushing the boundaries of reality. I want to honor every piece featured on this web page including every collaboration in history/future & the now, from every snowboard fan front- 2 background 2 the last line of code I copied 2 create this web string.</p>
+<p>I’ve created this page to share a view of Snowboarding, perceiving it purely as art form and fun.</p>
 <br>
 <a href="https://freesnowboarding.vercel.app">Thanks<\a>
 <br />
