@@ -2,7 +2,7 @@ import type { SiteConfig } from '$lib/types/site'
 
 export const site: SiteConfig = {
   protocol: import.meta.env.URARA_SITE_PROTOCOL ?? import.meta.env.DEV ? 'http://' : 'https://',
-  domain: import.meta.env.URARA_SITE_DOMAIN ?? 'freesnowboarding.xyz',
+  domain: import.meta.env.URARA_SITE_DOMAIN ?? 'freesnowboarding.vercel.app',
   title: 'freesnowboarding.xyz',
   subtitle: '🐝 happy',
   lang: 'en-US',
