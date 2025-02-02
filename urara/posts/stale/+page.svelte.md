@@ -3,7 +3,7 @@ title: StaleLiFE
 image: '/posts/stale/stale.png'
 alt: 'MjW'
 toc: false
-summary: Len Jørgensen is King
+summary: King Len Jørgensen
 created: '2024-1-2'
 tags: ['Stale Sandbech', 'Oakleysnowboarding']
 ---
