@@ -15,4 +15,3 @@ tags: ['Elias Elhardt', 'Arthur Longo', 'GiGi Rüf']
 </script>
 
 <Vimeo vimeoId="320329893" />
-<sub><sup>it is art</sup></sub>
