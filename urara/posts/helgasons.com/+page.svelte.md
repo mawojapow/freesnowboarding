@@ -8,6 +8,7 @@ created: 2021-12-25
 tags:
   - 'The Helgasons'
   - 'Lobstersnowboards'
+  - 'HappyGdayVincFuchs'
 ---
 
 The biggest blog inspirations I could ever get.
@@ -17,5 +18,3 @@ https://www.helgasons.com/
 <br/>
 
 <a href="https://lobstersnowboards.com/">Lobstersnowboards</a>
-
-Happy Birthday V. Fuchs !
