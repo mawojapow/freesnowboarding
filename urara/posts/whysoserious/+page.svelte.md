@@ -3,7 +3,7 @@ title: Why so serious?
 image: '/posts/whysoserious/why-so.png'
 alt: 'MjW'
 toc: false
-summary: It's real.
+summary: real.
 created: '2024-1-7'
 tags: ["Ol'Dirty Kirschy", 'Dinar Colada', 'U.F.O. Snowboarding']
 ---
