@@ -25,8 +25,6 @@ Bought cap @<a href="https://dustbox.org/collections/all">dustbox</a> (aware to 
 
 <a href="https://www.instagram.com/4kaishu/">4Kaishu</a> destroyed  halfpipe w/ <a href="https://www.instagram.com/valentinoguseli/">Valentino</a> <a href="https://www.facebook.com/reel/1138232670172207">@ Laax Open 2023</a> 🚀<br/>
 
-"dustbox, NEEDED YOU"
-
 ## dustbox, NEEDED YOU
 
 <YouTube youTubeId="lKkMp2PAjZ0" />
