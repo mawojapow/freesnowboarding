@@ -1,7 +1,7 @@
 <img src="birgitDREAM.png" alt="RH_AI">
 <p>I’ve created this page to share a view of Snowboarding, perceiving it purely as art form and fun.</p>
 <br>
-<a href="https://freesnowboarding.vercel.app">Thanks<\a>
+<a href="https://freesnowboarding.vercel.app">Thanks<\f'*'>
 <br />
   <br />
   <br />
