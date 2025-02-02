@@ -154,7 +154,7 @@ summary: Datenschutzerklärung
 <p>Die konkrete Speicherdauer der verarbeiteten Daten ist nicht durch uns beeinflussbar, sondern wird von Cloudflare, Inc. bestimmt. Weitere Hinweise finden Sie in der Datenschutzerklärung für Cloudflare CDN: <a href="https://www.cloudflare.com/privacypolicy/">https://www.cloudflare.com/privacypolicy/</a>.</p>
 
 <img src="birgitDREAM.png" alt="RH_AI">
-<p>I’ve created this page to share a view of Snowboarding, perceiving it as pure art form and fun. Snowboarders are artists pushing the boundaries of reality. I want to honor every piece of art featured on this web page including every artist collaboration in history/future & the now, from every snowboard fan front- 2 background 2 the last line of code I copied 2 create this web string.</p>
+<p>I’ve created this page to share a view of Snowboarding, perceiving it as pure art form and fun. Snowboarders are artists pushing the boundaries of reality. I want to honor every piece of art featured on this web page including every collaboration in history/future & the now, from every snowboard fan front- 2 background 2 the last line of code I copied 2 create this web string.</p>
 <br>
 <p>THANK YOU </p>
 <p><a href="https://www.deepl.com">Different Language</a></p>
