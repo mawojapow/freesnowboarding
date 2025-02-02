@@ -20,5 +20,5 @@ Thank You Lobster Imperium for stayin True to yourself
 </script>
 
 <YouTube youTubeId="eHGT1izv8V0" />
-<Vimeo vimeoId="886806712" /><sub><sup>great movie</sup></sub>
+<Vimeo vimeoId="886806712" /><sub><sup>great</sup></sub>
 
