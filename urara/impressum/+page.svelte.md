@@ -18,14 +18,13 @@ summary: Datenschutzerklärung
 	]
 
 	let playingState = 'paused'
-	let songPlayingIndex = 1
+	let songPlayingIndex = 0
 	let song = null
 	let initB = true
 	
-	if(initB == true)
+	if(initB === true)
 	{
 		play()
-		initB=false
 	}
 	
 	function handleClickOutside(event) {
