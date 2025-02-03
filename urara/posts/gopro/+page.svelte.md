@@ -13,7 +13,7 @@ Innsbrooklyn
 
  Patscherkofel STAIR
 
-L ived @Kofel heard he did that.
+L'ived @Kofel heard he did that.
 Man, it blew my mind few J-Line Rides!
 
 🙏  Shoutouts Kofel  🙏
