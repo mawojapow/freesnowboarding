@@ -36,6 +36,10 @@ summary: Datenschutzerklärung
     }
 
     function loadSong() {
+	if(initB === true)
+	{
+		songPlayIndex = 1
+	}
     	song = new Audio(playlist[songPlayingIndex].audio)
     	song.volume = 0.2
     	song.play()
