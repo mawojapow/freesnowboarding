@@ -16,7 +16,7 @@ Innsbrooklyn
 L ived @Kofel heard he did that.
 Man, it blew my mind few J-Line Rides!
 
-Shoutouts Kofel Homies IBK Gs 🙏
+🙏  Shoutouts Kofel  🙏
 
 Lorenz, your crazy and I love it.
 
