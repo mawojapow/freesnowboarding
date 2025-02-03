@@ -6,11 +6,10 @@ created: 2024-2-2
 updated: 2024-2-2
 ---
 
-free.
-
-love.
-
-snow.bring the f*cking 70s back!
+Free.
+Love.
+Snow.
+Bring the f*cking 70s back!
 
 T Y
 
