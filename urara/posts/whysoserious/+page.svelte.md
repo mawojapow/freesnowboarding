@@ -8,9 +8,9 @@ created: '2024-1-7'
 tags: ["Ol'Dirty Kirschy", 'Dinar Colada', 'U.F.O. Snowboarding']
 ---
 
-Riding w/ Legends have just been amazing @Kette 'nd especially end of last seazon @Kauni. They bring positive energy and can make a party out of everything.
+Riding w/ Ls just been amazing @Kette 'nd especially end of last seazon @Kauni. They bring positive energy and can make a party out of everything.
 
-Greetz & Love Kauni Gangy 
+Greetz & Love also Fabi, Roli, Laura, Jonas...Kauni Gangy<3
 
 <script>
   import { YouTube } from 'sveltekit-embed'
