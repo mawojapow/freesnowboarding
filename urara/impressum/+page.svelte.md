@@ -24,9 +24,7 @@ summary: Datenschutzerklärung
 	
 	if(initB == true)
 	{
-		song = new Audio(playlist[songPlayingIndex].audio)
-    		song.volume = 0.2
-		song.play()
+		play()
 		initB=false
 	}
 	
