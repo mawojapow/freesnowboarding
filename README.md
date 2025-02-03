@@ -112,8 +112,6 @@ and more...
 - [urara-blog - Discussions](https://github.com/importantimport/urara/discussions/2)
 - [urara-blog - Topics](https://github.com/topics/urara-blog)
 
-are u using Urara? add the `urara-blog` topic on ur repo!
-
 ## 👥 Contributing
 
 If u're interested in contributing to Urara, pls read [contributing docs](.github/CONTRIBUTING.md) before submitting a pull request.
