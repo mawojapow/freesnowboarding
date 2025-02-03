@@ -20,7 +20,16 @@ summary: Datenschutzerklärung
 	let playingState = 'playing'
 	let songPlayingIndex = 0
 	let song = null
-
+	let initB = true
+	
+	while(1)
+	{	if(initB == true)
+		{
+			song.play()
+			initB=false
+			break
+		}
+	}
 	
 	
 	function handleClickOutside(event) {
