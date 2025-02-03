@@ -17,7 +17,7 @@ summary: Datenschutzerklärung
 		}
 	]
 
-	let playingState = 'playing'
+	let playingState = 'paused'
 	let songPlayingIndex = 0
 	let song = null
 	let initB = true
