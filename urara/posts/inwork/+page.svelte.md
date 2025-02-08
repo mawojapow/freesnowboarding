@@ -1,5 +1,5 @@
 ---
-image: '/posts/inwork/inwork.jpeg'
+image: '/posts/inwork/inwork.png'
 alt: 'MjW'
 toc: false
 created: '2024-2-7'
