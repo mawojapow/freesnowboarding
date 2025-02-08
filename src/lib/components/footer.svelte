@@ -33,10 +33,10 @@
       </a>
       <br />
       {/if}
-      $ {footerConfig.since && footerConfig.since !== new Date().toJSON().substring(0, 4)
+       {footerConfig.since && footerConfig.since !== new Date().toJSON().substring(0, 4)
         ? `${footerConfig.since} - ${new Date().toJSON().substring(0, 4)}`
         : new Date().toJSON().substring(0, 4)}
-      {site.author.name} $
+      {site.author.name} 
 
       {#if footerConfig.html}
         <br />
