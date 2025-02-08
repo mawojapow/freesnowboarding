@@ -20,16 +20,11 @@ summary: Datenschutzerklärung
 	let playingState = 'paused'
 	let songPlayingIndex = 0
 	let song = null
-	let initB = true
+
 	
-	if(initB === true)
-	{
-		play()
-	}
-	
-	function handleClickOutside(event) {
-		pause()
-	}
+    function handleClickOutside(event) {
+	pause()
+    }
 
     function togglePlaying() {
     	playingState === 'paused'? play() : pause()
