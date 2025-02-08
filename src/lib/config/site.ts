@@ -11,6 +11,6 @@ export const site: SiteConfig = {
     avatar: '/assets/nobodies.png',
     name: 'Freesnowboarding',
     status: '🏴‍☠️',
-    bio: '<br/> just a piece <br/> <br/> 🧩 <br/> <br/> wanna share <br/><br/> WU Revolu <br/> choose ur own style -> topright <br/> <br/> Guud Music <br/> 🎼 <br/> Guud Movies <br/> 🎬 <br/><br/> Snowboarding <br/>' },
+    bio: '<br/> just a piece <br/> <br/> 🧩 <br/> wanna share <br/><br/> WU Revolu <br/> choose ur own style -> topright <br/> <br/> Guud Music <br/> 🎼 <br/> Guud Movies <br/> 🎬 <br/><br/> Snowboarding <br/>' },
   themeColor: '#3D4451'
 }
