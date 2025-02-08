@@ -6,8 +6,7 @@ so<3much svelte...
 <br />
   <br />
   <br />
-    <br />
-  <br />
+  
 <div align="center">
 <a href="https://github.com/importantimport/urara">
 <img src="https://github.com/importantimport/urara/raw/main/urara/hello-world/urara.webp" alt="urara" /></a>
