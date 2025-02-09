@@ -10,8 +10,7 @@ tags:
   - 'Gimbal God'
 ---
 
-<br/>
-ty <3
+💕
 
 ## SIDE HITS. The people's favorite.
 
