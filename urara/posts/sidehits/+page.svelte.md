@@ -11,8 +11,7 @@ tags:
 ---
 
 <br/>
-
-💌
+<3
 
 ## SIDE HITS. The people's favorite.
 
