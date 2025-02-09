@@ -2,7 +2,7 @@
 title: Side Hits
 image: '/posts/sidehits/sidehits.png'
 alt: 'MjW'
-summary: Ls
+summary: 
 created: 2024-1-4
 # updated: 2021-12-12
 tags:
